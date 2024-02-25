@@ -1,0 +1,35 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Hotel de lujo Paradise",
+        "description": "Hotel de lujo",
+        "image": "/img/hotel1.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Resort Tropical",
+        "description": "Experimenta el confort y la elegancia en nuestro hotel",
+        "image": "/img/hotel2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Villa Sunrise",
+        "description": "Disfruta de unas vacaciones inolvidables",
+        "image": "/img/hotel3.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Inn Mountain",
+        "description": "Un refugio tranquilo en medio de la naturaleza",
+        "image": "/img/hotel4.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Lodge Ocean",
+        "description": "La mejor opción para tu próximo viaje",
+        "image": "/img/hotel5.jpeg"
+      }
+    ]
+  }
+  
